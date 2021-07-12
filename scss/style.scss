@@ -1,0 +1,16 @@
+@import "_header";
+
+body {
+   font-size: 20px;
+}
+
+.bolck {
+}
+.block {
+   &__item {
+   }
+}
+
+.red {
+   color: red;
+}
